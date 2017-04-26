@@ -6,7 +6,7 @@ import java.awt.event.*;
 import java.text.DecimalFormat;
 import javax.swing.*;
 import javax.swing.border.*;
-
+this a delibrate error 
 public class MicrowaveOven extends JFrame
 {
    // JPanel for microwave window
@@ -17,7 +17,7 @@ public class MicrowaveOven extends JFrame
 
    // JTextField for cooking time
    private JTextField displayJTextField;
-
+   another error 
    // JButtons to set cooking time
    private JButton oneJButton;
    private JButton twoJButton;
@@ -29,11 +29,11 @@ public class MicrowaveOven extends JFrame
    private JButton eightJButton;
    private JButton nineJButton;
    private JButton zeroJButton;
-
+   this is the third error 
    // JButtons to start and clear timer
    private JButton startJButton;
    private JButton clearJButton;
-
+   error no 4
    // Timer to count down seconds
    private Timer clockTimer;
 
