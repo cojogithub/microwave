@@ -509,6 +509,71 @@ public class MicrowaveOven extends JFrame
    } // end method clockTimerActionPerformed
    
    // main method
+   this is the begining of the wrong code
+   public class Message {
+  private String recipient;
+  public Message(String rcpt) {
+    this.recipient = rcpt;
+  }
+}
+
+public class Message {
+  private String recipient;
+  public Message(String rcpt) {
+    this.recipient = rcpt;
+  }
+}public class Message {
+  private String recipient;
+  public Message(String rcpt) {
+    this.recipient = rcpt;
+  }
+}public class Message {
+  private String recipient;
+  public Message(String rcpt) {
+    this.recipient = rcpt;
+  }
+}public class Message {
+  private String recipient;
+  public Message(String rcpt) {
+    this.recipient = rcpt;
+  }
+}public class Message {
+  private String recipient;
+  public Message(String rcpt) {
+    this.recipient = rcpt;
+  }
+}public class Message {
+  private String recipient;
+  public Message(String rcpt) {
+    this.recipient = rcpt;
+  }
+}public class Message {
+  private String recipient;
+  public Message(String rcpt) {
+    this.recipient = rcpt;
+  }
+}public class Message {
+  private String recipient;
+  public Message(String rcpt) {
+    this.recipient = rcpt;
+  }
+}public class Message {
+  private String recipient;
+  public Message(String rcpt) {
+    this.recipient = rcpt;
+  }
+}public class Message {
+  private String recipient;
+  public Message(String rcpt) {
+    this.recipient = rcpt;
+  }
+}public class Message {
+  private String recipient;
+  public Message(String rcpt) {
+    this.recipient = rcpt;
+  }
+}
+this is the end of the wrong code
    public static void main( String args[] )
    {
       MicrowaveOven application = new MicrowaveOven();
